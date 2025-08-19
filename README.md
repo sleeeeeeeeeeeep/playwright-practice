@@ -1,6 +1,13 @@
-# playwright-practice
-playwright 써보기
+# 웹 로그인, 로그아웃 테스트 자동화
 
+## 테스트 대상
 https://www.saucedemo.com/
 
-로그인 성공/실패 테스트
+## 사용 도구
+playwright
+- 빠른 속도
+- 다양한 브라우저 지원
+
+## 구현 구조
+test와 test에서 수행하는 action 분리
+유지보수성 향상
