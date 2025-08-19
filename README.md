@@ -9,5 +9,5 @@ playwright
 - 다양한 브라우저 지원
 
 ## 구현 구조
-test와 test에서 수행하는 action 분리
-유지보수성 향상
+test/test에서 수행하는 action 분리
+- 유지보수성 향상
